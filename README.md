@@ -15,4 +15,4 @@ Atualmente cursando o 6º semestre no IF Baiano, sou apaixonado por tecnologia e
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Roberto](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Estatísticas do Roberto](https://github-readme-stats.vercel.app/api?username=Mr-Freitas&show_icons=true&theme=dracula)
