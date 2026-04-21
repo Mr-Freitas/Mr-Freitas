@@ -17,4 +17,5 @@ Atualmente cursando o 6º semestre no IF Baiano, sou apaixonado por tecnologia e
 ### 🌐 Vamos nos conectar?
 Para saber mais sobre minha trajetória profissional, projetos acadêmicos e experiências no IF Baiano, visite meu perfil no LinkedIn:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roberto-freitas)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-freitas-a205a82b9/)
